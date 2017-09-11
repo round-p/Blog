@@ -65,3 +65,5 @@ title: Welcome to 圓台科技
      可望coating厚度達到 >150um。
      
 - 光學式 指紋 IC : under-glass 厚度達到  >  1mm
+
+![指紋IC 設計](https://round-p.github.io/images/2017-09-1111.15.01.png)
