@@ -224,7 +224,7 @@ sidebar:
 scroll_to_more: true
 
 # Automatically saving scroll position on each post/page in cookies.
-save_scroll: false
+save_scroll: true
 
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true
@@ -522,7 +522,7 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: true
+canvas_nest: false
 
 # three_waves
 three_waves: false
@@ -535,7 +535,7 @@ canvas_sphere: false
 
 # Only fit scheme Pisces
 # Canvas-ribbon
-canvas_ribbon: true
+canvas_ribbon: false
 
 # Script Vendors.
 # Set a CDN address for the vendor you want to customize.
