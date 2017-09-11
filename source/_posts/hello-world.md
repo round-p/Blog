@@ -1,42 +1,12 @@
----
-title: Hello World
----
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+Welcome to Round P!
+===================
+###圓台科技 簡介
+> **三方面事業:**
 
-## Quick Start
-
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-$ test
-$ test2
-```
-
-testttt
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/deployment.html)
+> - 創新趣味: 
+圓台科技創立於2012年，成立宗旨在設計創新的、有特殊意義的玩具夢想，例如:Barbie’s Segway、龍棋、瓶中船。
+> - 創新科技: 
+目前事業主力方向
+    圓台科技於2017年，鎖定主力發展無人機--機器人之軟體操控平台。
+> - 委託設計:
+    公司運作同時，也接受委託代工設計指紋IC產品。
