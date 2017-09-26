@@ -2,7 +2,7 @@
 title: Welcome to 圓台科技
 ---
 
-#### <i class="icon-file"></i> 簡介
+### <i class="icon-file"></i> 簡介
 > **三方面事業:**
 
 > - 創新趣味: 
@@ -15,8 +15,7 @@ title: Welcome to 圓台科技
 
 
 
-#### <i class="icon-file"></i> 創新科技
-> 無人機--機器人之軟體平台
+### <i class="icon-file"></i> 創新科技 - 無人機--機器人之軟體平台
 
 - 主要應用 :
   因應未來機器人時代來臨，飛行機器人也將是不可或缺的一環，無人機適合扮演此角色。
@@ -30,18 +29,18 @@ title: Welcome to 圓台科技
 - 專利申請範圍: 遠端無人機 機器人 操控架構、語音指令學習、樓層地圖建立、自動充電方式、鷹爪機構介面…
 
 
-![架構圖](https://round-p.github.io/images/2017-09-1110.13.21.png)
+![架構圖](/images/2017-09-1110.13.21.jpg)
 
-![巡邏各樓層](https://round-p.github.io/images/2017-09-1110.14.23.png)
+![巡邏各樓層](/images/2017-09-1110.14.23.jpg)
 
-![至戶外庭院巡視](https://round-p.github.io/images/2017-09-1110.14.45.png)
+![至戶外庭院巡視](/images/2017-09-1110.14.45.jpg)
 
-![擔任超大社區巡邏](https://round-p.github.io/images/2017-09-1110.15.00.png)
+![擔任超大社區巡邏](/images/2017-09-1110.15.00.jpg)
 
-![校鷹](https://round-p.github.io/images/2017-09-1110.15.21.png)
+![校鷹](/images/2017-09-1110.15.21.jpg)
 
 
-#### <i class="icon-file"></i>創新趣味 
+### <i class="icon-file"></i>創新趣味 
  > 理想、有夢最美
 
 - 圓台科技的宗旨、理念在於，發揮台灣的原創精神，做出一些有趣的玩具推揚到世界，因為我們的用心，對世界做一些有趣的改變。
@@ -50,14 +49,19 @@ title: Welcome to 圓台科技
 
 - 目前想開發的創新玩具，例如:  Barbie’s Segway、 龍棋 、 瓶中船 。
 
+
+[Barbie’s Segway]()
 ![Barbie’s Segway](https://round-p.github.io/images/2017-09-1110.15.51.png)
 
+
+[龍棋]()
 ![龍棋](https://round-p.github.io/images/2017-09-1110.58.35.png)
 
+[瓶中船]()
 ![瓶中船](https://round-p.github.io/images/2017-09-1110.18.13.png)
 
 
-#### <i class="icon-file"></i> 委託設計: 指紋IC 設計
+### <i class="icon-file"></i> 委託設計: 指紋IC 設計
    > 技術突破， 沒有最好、只有更好
 
 - 電容式指紋 IC : 增強型被動式 
@@ -66,4 +70,5 @@ title: Welcome to 圓台科技
      
 - 光學式 指紋 IC : under-glass 厚度達到  >  1mm
 
+[指紋IC 設計]()
 ![指紋IC 設計](https://round-p.github.io/images/2017-09-1111.15.01.png)
